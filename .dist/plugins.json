@@ -288,13 +288,13 @@
 		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/plugins/v3.0.0/public/static/src/en/bakatsuki/icon.png"
 	},
 	{
-		"id": "bellereservoir",
-		"name": "Belle Reservoir",
-		"site": "https://bellereservoir.com/",
+		"id": "bellerepository",
+		"name": "Belle Repository",
+		"site": "https://bellerepository.com/",
 		"lang": "English",
 		"version": "2.2.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/plugins/v3.0.0/.js/src/plugins/english/BelleReservoir[madara].js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/plugins/v3.0.0/public/static/multisrc/madara/bellereservoir/icon.png"
+		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/plugins/v3.0.0/.js/src/plugins/english/BelleRepository[madara].js",
+		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/plugins/v3.0.0/public/static/multisrc/madara/bellerepository/icon.png"
 	},
 	{
 		"id": "blumeverse",
